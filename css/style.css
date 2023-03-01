@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('https://www.projectinvictus.it/wp-content/uploads/2020/03/frutta-fresca-scaled.jpeg');
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 6rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+}
+
+ul{
+    list-style: none;
+    padding: 3rem 0;
+    color: white;
+    font-size: 2rem;
+}
+
+li{
+    margin-bottom: 1rem;
+}
